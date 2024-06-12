@@ -1,0 +1,9 @@
+
+Pillow
+tensorflow
+protobuf
+streamlit
+opencv-python
+click
+pygame
+altair
